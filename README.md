@@ -1,4 +1,4 @@
-# requirejs
+# RequireJS - InputManager and a Singleton-example
 A simple singleton input-manager in JavaScript, using requireJS.
 
 Add your wanted keys to 
