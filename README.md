@@ -14,6 +14,8 @@ and
 
 
 Check if the 'w' on the keyboard is pressed with
->InputManager.isPressed('w');
+```
+InputManager.isPressed('w');
+```
 
 A singleton-example for requirejs is included under js/classes/Singleton.js.
