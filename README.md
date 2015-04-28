@@ -17,7 +17,13 @@ and
 InputManager.DEFAULT_STATE
 ```
 
-Check if the 'w' on the keyboard is pressed with (returns either true or false)
+Include the module at the top of your main-file.
+```javascript
+require(['classes/InputManager'], function(InputManager) {
+  ...
+```
+
+Check if the 'w' on the keyboard is pressed with (returns either true or false).
 ```javascript
 InputManager.isPressed('w');
 ```
