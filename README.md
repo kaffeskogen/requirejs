@@ -19,7 +19,7 @@ InputManager.DEFAULT_STATE
 
 Include the module at the top of your main-file.
 ```javascript
-require(['classes/InputManager'], function(InputManager) {
+require(['InputManager'], function(InputManager) {
   ...
 ```
 
