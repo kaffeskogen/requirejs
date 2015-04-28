@@ -17,9 +17,11 @@ and
 InputManager.DEFAULT_STATE
 ```
 
-Check if the 'w' on the keyboard is pressed with
+Check if the 'w' on the keyboard is pressed with (returns either true or false)
 ```javascript
 InputManager.isPressed('w');
 ```
+
+It also remembers if a key has been pressed and returns true once if that's the case.
 
 A singleton-example for requirejs is included under js/classes/Singleton.js.
