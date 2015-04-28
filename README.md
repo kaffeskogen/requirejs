@@ -12,6 +12,7 @@ and
 
 >InputManager.DEFAULT_STATE
 
+
 Check if the 'w' on the keyboard is pressed with
 >InputManager.isPressed('w');
 
