@@ -7,7 +7,9 @@ Put the InputManager.js beside your main.js.
 
 In the *bottom* of InputManager.js, add your wanted keys to 
 >InputManager.KEY_CODES
+
 and
+
 >InputManager.DEFAULT_STATE
 
 Check if the 'w' on the keyboard is pressed with
